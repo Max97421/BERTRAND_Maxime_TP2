@@ -1,0 +1,4 @@
+C:\Users\Maxou\RiderProjects\Solution1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojAssemblyReference.cache
+C:\Users\Maxou\RiderProjects\Solution1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Maxou\RiderProjects\BERTRAND.Maxime.TP2\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojAssemblyReference.cache
+C:\Users\Maxou\RiderProjects\BERTRAND.Maxime.TP2\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
